@@ -4,5 +4,9 @@ box-sizing: border-box
   text-align: center;
   margin: auto
 }
+
+body {
+  backgound-color: #A0A0A0
+}
   
 
