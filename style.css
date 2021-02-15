@@ -1,5 +1,9 @@
 box-sizing: border-box;
 
+body {
+  background-color: #A0A0A0;
+}
+
 .centered {
   text-align: center;
   margin: auto;
