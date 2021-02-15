@@ -1,7 +1,8 @@
 box-sizing: border-box
 
 .centered {
-  text-align: center
+  text-align: center;
+  margin: auto
 }
   
 
