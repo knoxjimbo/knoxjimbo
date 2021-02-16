@@ -1,0 +1,50 @@
+body {
+  background-color: #707070;
+  font-family: 'Times New Roman', Times, serif;
+  color: black
+}
+
+.centered {
+  text-align: center
+}
+
+header h1 {
+  font-size: 69px;
+  color: #0099FF
+}
+
+header h2 {
+  font-size: 43px;
+  margin: 0px
+}
+
+header h3 {
+  font-size: 40px;
+  color: #0099FF
+}
+
+h4 {
+  font-size: 38px;
+  color:#0099FF;
+} 
+
+.list-inside li {
+  list-style-position: inside;
+  text-align: left;
+  padding-left: 10%;
+  font-size: 18px;
+  padding-top: 10px
+}
+
+footer h4 {
+  color: black;
+}
+
+h5 {
+  color:#0099FF;
+  font-size: 20px
+}
+
+a:link {color: orange}
+a:visited {color: #0099FF}
+a:hover {color: yellow}
