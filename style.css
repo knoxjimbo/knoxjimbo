@@ -73,3 +73,6 @@ footer p {
 a:link {color: orange}
 a:visited {color: #0099FF}
 a:hover {color: yellow}
+
+.wrapper {
+  width: 100%
